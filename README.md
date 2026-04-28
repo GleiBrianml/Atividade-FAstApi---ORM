@@ -1,0 +1,1 @@
+# pip install fastapi uvicorn sqlalchemy alembic python-dotenv
